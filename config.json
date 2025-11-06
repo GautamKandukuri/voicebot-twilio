@@ -1,7 +1,7 @@
 {
-  "twilio_account_sid": "AC9aa853646ca28557f1af5ef4d7cf9da1",
-  "twilio_auth_token": "510e3cbe108526dd035b43ff78c73614",
-  "twilio_from_number": "+18787788038",
+  "twilio_account_sid": "AC29fbc894c8950f8769538139b981ad0e",
+  "twilio_auth_token": "96646982e47a9c5887f6b6deaaea3917",
+  "twilio_from_number": "+14133932921",
   "twilio_to_number": "+919000383940",
   "gcp_project_id": "mckinseyvoicebot",
   "bigquery_dataset": "voicebot_leads",
